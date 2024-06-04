@@ -46,6 +46,9 @@ Since this is a sandbox project, you can use it to:
 Example commands you might use:
 
 ```bash
+# Clone the repository
+git clone https://github.com/IreneT-Dev/github-chapter-2-sandbox.git
+
 # Create a new branch
 git branch new-feature-branch
 
